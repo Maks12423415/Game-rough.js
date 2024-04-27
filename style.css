@@ -7,4 +7,7 @@
   border-top: 1px solid black;
   height: 20vh;
   width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
